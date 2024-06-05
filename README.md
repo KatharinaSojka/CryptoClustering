@@ -1,6 +1,6 @@
 # CryptoClustering
 
-This is submission for Unsupervies Machine Learning Module.
+This is my submission for Unsupervised Machine Learning Module.
 
 In the repository you will find a folder with the Source file crypto_market_data.
 
